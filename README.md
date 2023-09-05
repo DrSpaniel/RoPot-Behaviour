@@ -1,7 +1,7 @@
 # RoPot Behaviour
  behaviour code for final project 'RoPot'.
 
- this final project (photos added soon) is a robot pot which notifies the plant owner (user) when to water the plant. it contains a custom made PCB, a bunch of LED thingies, a speaker, motors, and a capacative soil sensor. (ingredients will be added soon) this was made using arduino! thanks arduino. 
+ this final project is a robot pot which notifies the plant owner (user) when to water the plant. it contains a custom made PCB, a bunch of LED thingies, a speaker, motors, and a capacative soil sensor. and the encloser is fully modeled, and 3d printed by me! (ingredients will be added soon) this was made using arduino! thanks arduino. 
 
  
 ![IMG_9535](https://github.com/DrSpaniel/RoPot-Behaviour/assets/80426387/6f99bdf3-d43c-46a7-8fea-a19d88d1456b)
