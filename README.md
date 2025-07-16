@@ -11,4 +11,4 @@
 ![IMG_9702](https://github.com/DrSpaniel/RoPot-Behaviour/assets/80426387/e1474d67-6647-4293-9e46-941bb2b904c5)
 
 
- Made by Ag/Dan <3
+ Made by Agirie + Dan
